@@ -1,5 +1,10 @@
 # 裸奔STM32 系统时钟 + NVICC
 
+
+******   
+[Home](https://skeyzero.github.io/)     [STM32_Note](https://skeyzero.github.io/)   
+******
+
 ## 认识时钟树  
 在配置系统时钟之前先观摩一下STM32时钟树。比起51的时钟配置，STM32的时钟配置看起来挺吓人的.来，关门放狗。。。看树。 
 ![image](./img/1.png)  
